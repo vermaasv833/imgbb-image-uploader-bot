@@ -18,7 +18,8 @@
 
 ## Note
 - Any changes you make to your fork repo.[🔗 Click Here To Fork Repo](https://github.com/SudoR2spr/imgbb-image-uploader-bot/fork)
-<br 
+
+<br>
 ## Environment Variables
 
 - Your bot details add: `.env` replace your bot details
